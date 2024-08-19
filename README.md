@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Olá, meu nome é Mathyas
+## Email: mathyasfjpessoa@gmail.com
+## Estou estudando na Alura
+## Estou me desenvolvendo na linguagem JavaScript
+## Estou utilizando esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 <!--
 **MathyPerson18/MathyPerson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
